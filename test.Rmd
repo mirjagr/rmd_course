@@ -1,0 +1,9 @@
+---
+title: "**Congradulations --- It has worked!**"
+output: pdf_document
+---
+
+# You are ready for the first day of the workshop on *Writing reproducible research papers with R Markdown*, and I look forward to meeting you for an exciting workshop full of activities.
+
+# Best wishes,
+# Resul
